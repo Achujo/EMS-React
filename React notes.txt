@@ -1,0 +1,35 @@
+Hooks 
+
+UseState==  To create a state
+
+
+useParams() - used to access params from url.
+
+
+
+
+
+<header>
+
+    <div class="container">
+<a routerLink="/" class="logo">Joe food court</a>
+<nav>
+    <ul>
+        <li>
+            <a href="">Log in</a>    
+        </li>
+        <li class="menu-container">
+            <a routerLink="/dashboard">Sara</a>
+            <div class="menu">
+                <a routerLink="/Profile">Profile</a>
+                <a routerLink="/order">Order</a>
+                <a routerLink="/login">Logout</a>
+            </div>
+        </li>
+        <li>
+            <a routerLink="/cart">Card<span>3</span></a>
+        </li>
+    </ul>
+</nav>
+    </div>
+</header>

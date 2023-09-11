@@ -1,0 +1,16 @@
+MVC Framework-- model view controls
+
+.env library
+
+Environmental Variables
+========================
+
+a variable that contains application configurations.The configurations needed when the application is running and ee configurations therunna sambhavam aan environment variables.
+
+The module use in handling these environmental variables is process.
+
+it will convert static working app into dynamic app (localHost runnng into server running)
+
+Multer
+----
+Library used to handle file type datas i server
